@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="fCapNhatKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fChuyenBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fDatBan_ChonHanhDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fMoBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fLoiDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSuaBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSuaKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSuaKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSuaNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fSuaThucDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThemKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThemKhuyenMai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThemNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fThemThucDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fXacNhanDatBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fXacNhanThoat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fXacNhanXoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,664 @@
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDangNhap.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.GenerateResource.cache
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfoInputs.cache
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfo.cs
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.exe
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.deps.json
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.runtimeconfig.json
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\refint\QL_Bida.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.genruntimeconfig.cache
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\ref\QL_Bida.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.Properties.Resources.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fHome.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.AssemblyReference.cache
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.Up2Date
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fNhanVien.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fLoiDangNhap.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanThoat.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanXoa.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanDatBan.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemThucDon.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaThucDon.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaBan.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemNhanVien.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaNhanVien.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhuyenMai.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhuyenMai.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fCapNhatKho.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhachHang.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhachHang.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDatBan_ChonHanhDong.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fMoBan.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThanhToan.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fChuyenBan.resources
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Thanh\Desktop\Bida\QL_Bida\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\QL_Bida.exe
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\QL_Bida.deps.json
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\QL_Bida.runtimeconfig.json
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.csproj.AssemblyReference.cache
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fCapNhatKho.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fChuyenBan.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fDangNhap.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fDatBan_ChonHanhDong.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fHome.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fLoiDangNhap.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fMoBan.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fSuaBan.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fSuaKhachHang.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fSuaKhuyenMai.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fSuaNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fSuaThucDon.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fThanhToan.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fThemKhachHang.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fThemKhuyenMai.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fThemNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fThemThucDon.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fXacNhanDatBan.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fXacNhanThoat.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.fXacNhanXoa.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.Properties.Resources.resources
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.csproj.GenerateResource.cache
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfoInputs.cache
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfo.cs
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.csproj.Up2Date
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\refint\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\QL_Bida.genruntimeconfig.cache
+C:\Users\Thanh\Desktop\QL_Bida - Copy\obj\Debug\net8.0-windows\ref\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.exe
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.deps.json
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.runtimeconfig.json
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.AssemblyReference.cache
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fCapNhatKho.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fChuyenBan.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDangNhap.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDatBan_ChonHanhDong.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fHome.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fLoiDangNhap.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fMoBan.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaBan.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhachHang.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhuyenMai.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaThucDon.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThanhToan.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhachHang.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhuyenMai.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemThucDon.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanDatBan.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanThoat.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanXoa.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.Properties.Resources.resources
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.GenerateResource.cache
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfoInputs.cache
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfo.cs
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.Up2Date
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\refint\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.genruntimeconfig.cache
+C:\Users\Thanh\Desktop\QL_Bida\obj\Debug\net8.0-windows\ref\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida\bin\Debug\net8.0-windows\QRCoder.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.exe
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.deps.json
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.runtimeconfig.json
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.pdb
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.forms.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.io.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.layout.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.sign.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.svg.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\itext.commons.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\QRCoder.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\RBush.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.AssemblyReference.cache
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fCapNhatKho.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fChuyenBan.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDangNhap.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDatBan_ChonHanhDong.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fHome.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fLoiDangNhap.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fMoBan.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fNhanVien.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaBan.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhachHang.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhuyenMai.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaNhanVien.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaThucDon.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThanhToan.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhachHang.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhuyenMai.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemNhanVien.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemThucDon.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanDatBan.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanThoat.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanXoa.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.Properties.Resources.resources
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.GenerateResource.cache
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfoInputs.cache
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfo.cs
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.CoreCompileInputs.cache
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.Up2Date
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\refint\QL_Bida.dll
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.pdb
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.genruntimeconfig.cache
+D:\Dev Tools\Visual Studio 2022 Community\repos\QL_Bida\obj\Debug\net8.0-windows\ref\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.exe
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.deps.json
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.runtimeconfig.json
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.AssemblyReference.cache
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fCapNhatKho.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fChuyenBan.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDangNhap.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDatBan_ChonHanhDong.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fHome.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fLoiDangNhap.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fMoBan.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaBan.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhachHang.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhuyenMai.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaThucDon.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThanhToan.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhachHang.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhuyenMai.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemThucDon.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanDatBan.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanThoat.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanXoa.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.Properties.Resources.resources
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.GenerateResource.cache
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfoInputs.cache
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfo.cs
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.Up2Date
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\refint\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.genruntimeconfig.cache
+C:\Users\Thanh\Desktop\QL_Bida (1)\QL_Bida\obj\Debug\net8.0-windows\ref\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.exe
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.deps.json
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.runtimeconfig.json
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.AssemblyReference.cache
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fCapNhatKho.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fChuyenBan.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDangNhap.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDatBan_ChonHanhDong.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fHome.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fLoiDangNhap.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fMoBan.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaBan.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhachHang.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhuyenMai.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaThucDon.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThanhToan.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhachHang.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhuyenMai.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemNhanVien.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemThucDon.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanDatBan.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanThoat.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanXoa.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.Properties.Resources.resources
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.GenerateResource.cache
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfoInputs.cache
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfo.cs
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.Up2Date
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\refint\QL_Bida.dll
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.pdb
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.genruntimeconfig.cache
+C:\Users\Thanh\Desktop\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\ref\QL_Bida.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.exe
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.deps.json
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.runtimeconfig.json
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.pdb
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.forms.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.io.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.layout.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.sign.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.svg.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\itext.commons.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\QRCoder.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\RBush.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.AssemblyReference.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fCapNhatKho.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fChuyenBan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDangNhap.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDatBan_ChonHanhDong.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fHome.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fLoiDangNhap.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fMoBan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fNhanVien.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaBan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhachHang.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhuyenMai.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaNhanVien.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaThucDon.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThanhToan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhachHang.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhuyenMai.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemNhanVien.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemThucDon.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanDatBan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanThoat.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanXoa.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.Properties.Resources.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.GenerateResource.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfoInputs.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfo.cs
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.CoreCompileInputs.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.Up2Date
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\refint\QL_Bida.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.pdb
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.genruntimeconfig.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\QL_Bida\QL_Bida\obj\Debug\net8.0-windows\ref\QL_Bida.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.exe
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.deps.json
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.runtimeconfig.json
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\QL_Bida.pdb
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.forms.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.io.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.layout.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.sign.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.svg.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\itext.commons.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\QRCoder.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\RBush.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.AssemblyReference.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fCapNhatKho.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fChuyenBan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDangNhap.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fDatBan_ChonHanhDong.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fHome.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fLoiDangNhap.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fMoBan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fNhanVien.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaBan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhachHang.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaKhuyenMai.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaNhanVien.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fSuaThucDon.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThanhToan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhachHang.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemKhuyenMai.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemNhanVien.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fThemThucDon.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanDatBan.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanThoat.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.fXacNhanXoa.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.Properties.Resources.resources
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.GenerateResource.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfoInputs.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfo.cs
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.CoreCompileInputs.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.csproj.Up2Date
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\refint\QL_Bida.dll
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.pdb
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\QL_Bida.genruntimeconfig.cache
+D:\HUIT\Hệ Quản Trị CSDL\NHÓM 1\Code\QL_Bida\obj\Debug\net8.0-windows\ref\QL_Bida.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\QL_Bida.exe
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\QL_Bida.deps.json
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\QL_Bida.runtimeconfig.json
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\QL_Bida.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\QL_Bida.pdb
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\ClosedXML.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.barcodes.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.forms.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.io.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.kernel.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.layout.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.pdfa.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.pdfua.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.sign.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.svg.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\itext.commons.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\QRCoder.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\RBush.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.csproj.AssemblyReference.cache
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fCapNhatKho.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fChuyenBan.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fDangNhap.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fDatBan_ChonHanhDong.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fHome.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fLoiDangNhap.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fMoBan.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fNhanVien.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fSuaBan.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fSuaKhachHang.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fSuaKhuyenMai.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fSuaNhanVien.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fSuaThucDon.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fThanhToan.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fThemKhachHang.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fThemKhuyenMai.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fThemNhanVien.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fThemThucDon.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fXacNhanDatBan.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fXacNhanThoat.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.fXacNhanXoa.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.Properties.Resources.resources
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.csproj.GenerateResource.cache
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.GeneratedMSBuildEditorConfig.editorconfig
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfoInputs.cache
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.AssemblyInfo.cs
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.csproj.CoreCompileInputs.cache
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.csproj.Up2Date
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\refint\QL_Bida.dll
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.pdb
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\QL_Bida.genruntimeconfig.cache
+P:\HUIT N3 HK1\HQTCSDL\ĐỒ ÁN\NHÓM 1\NHÓM 1\Code\obj\Debug\net8.0-windows\ref\QL_Bida.dll
